@@ -1,0 +1,8 @@
+{
+  "name": " سَفرة | مطعم سعودي عصري",
+  "description": "سَفرة — مطعم سعودي يقدم الشاورما والبرجر والبروست والوجبات والمقبلات ضمن تجربة عصرية في الرياض.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
